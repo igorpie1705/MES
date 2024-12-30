@@ -1,4 +1,4 @@
-# Odkształcenie sprężyste
+# Odkształcenie sprężyste MES
 
 Program rozwiązujący poniższe równanie oraz rysujący wykres rozwiązań został zaimplementowany w języku Python, wykorzystując biblioteki NumPy, SciPy i Matplotlib
 
