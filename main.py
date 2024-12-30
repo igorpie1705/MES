@@ -83,6 +83,7 @@ def create_plot(n, u_vector):
     plt.ylabel('u(x)')
     plt.grid(True)
     plt.plot(x_values, u_values, label='u(x)')
+    plt.legend()
     plt.show()
     
 
