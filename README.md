@@ -2,8 +2,8 @@
 
 Program rozwiązujący poniższe równanie za pomocą metody elementów skończonych oraz rysujący wykres rozwiązań został zaimplementowany w języku Python, wykorzystując biblioteki NumPy, SciPy i Matplotlib
 
-![Obrazek 1](https://github.com/user-attachments/assets/59a8f5ff-d1dc-44c8-8cfa-701034b315e3)
-![Obrazek 2](https://github.com/user-attachments/assets/7c27ebd8-fc19-4e2d-94a2-cae9a28c036c)
+![image](https://github.com/user-attachments/assets/7d6bffd2-6774-42cf-83a8-7d9bbf23310b)
+![image](https://github.com/user-attachments/assets/cbe04f7e-7605-47e8-96f7-00883330ad6b)
 
 # Wykres dla n = 1000
 
